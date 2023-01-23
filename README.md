@@ -11,7 +11,7 @@ Enforcing unpaid blight fines is a costly and tedious process, so the city wants
 The first step in answering this question is understanding when and why a resident might fail to comply with a blight ticket. 
 This is where predictive modeling comes in. The task is to predict whether a given blight ticket will be paid on time. 
 
-The comßlete project is done in Python.
+The complete project is done in Python.
 
 ## Data collection
 We are provided two data files for use in training and validating the models: train.csv and test.csv. 
